@@ -8,6 +8,13 @@ Este proyecto es una pequeña demostración de una interfaz moderna para una tar
 
 La aplicación permite visualizar cómo se vería una tarjeta de crédito realista en una pantalla web, con estilos elegantes, efecto de resaltado y cambios de apariencia según la marca detectada en el número ingresado.
 
+<img width="1920" height="957" alt="image" src="https://github.com/user-attachments/assets/fa823e3e-e524-43c3-aa5d-e65adcf5c99b" />
+<img width="1920" height="960" alt="image" src="https://github.com/user-attachments/assets/a757b0c0-7cdb-473b-b2ca-eb41446c99b4" />
+<img width="1920" height="957" alt="image" src="https://github.com/user-attachments/assets/5b633a3c-4a64-4f5a-9f82-d233d0e80985" />
+<img width="1920" height="957" alt="image" src="https://github.com/user-attachments/assets/150079eb-95d5-41ce-b45d-028fa1049094" />
+<img width="1920" height="996" alt="image" src="https://github.com/user-attachments/assets/e229f5fb-c46a-4b4c-a00e-c16295c7a34c" />
+
+
 ## 🎯 Funcionalidades
 
 - Animación de giro de la tarjeta al seleccionar el campo CVV
